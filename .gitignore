@@ -1,0 +1,15 @@
+# Compilados de Java
+*.class
+
+# Binarios y paquetes
+*.jar
+*.war
+*.ear
+*.exe
+
+# Archivos de configuracion de IDEs / SO
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
